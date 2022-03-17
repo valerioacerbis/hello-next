@@ -12,7 +12,7 @@ const Home: NextPage = () => {
 	return (
 		<div>
 			<Head>
-				<title>FrontEnd Gadgets Title</title>
+				<title>FrontEnd Gadgets Title edit 2</title>
 				<meta name="description" content="Front-end Gadgets is a demo site to learn Next" />
 				<link rel="icon" href="/favicon.ico" />
 			</Head>
