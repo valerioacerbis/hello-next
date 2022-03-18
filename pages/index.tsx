@@ -17,8 +17,8 @@ const Home: NextPage = () => {
 			</Head>
 
 			<h1 className="text-7xl text-pink-500 font-bold underline">FrontEnd Gadget</h1>
-			<h1 className={css.title}>Hello</h1>
-			<button className={css.button}>Click Me</button>
+			<h1>Hello</h1>
+			<button>Click Me</button>
 			<div className="relative border-4 border-blue-500 h-96 w-96">
 				<Image
 					layout='fill'
