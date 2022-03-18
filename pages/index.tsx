@@ -1,4 +1,3 @@
-import css from '../styles/home.module.css';
 import Head from 'next/head'
 import type { NextPage } from 'next'
 import Image from 'next/image';
