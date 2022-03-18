@@ -2,7 +2,7 @@ function Contacts() {
     return (
         <div className="flex flex-col items-center justify-center	min-w-full min-h-screen	">
             <h1 className="text-5xl text-pink-600 font-bold  my-5">
-                Contacts
+                Contacts test
             </h1>
         </div>
     )
